@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaireddine</h1>
-<h3 align="center">💻 Software Engineer | 🛠️ Crafting robust & scalable solutions | 🌐 Passionate about clean code & innovative tech | 🤝 Collaborating with teams to drive software excellence | Let's code the future!</h3>
+<h3 align="center">💻 Software Engineer | 🛠️ Crafting robust & scalable solutions | 🌐 Passionate about innovative tech | 🤝 Collaborating with teams to drive software excellence | Let's code the future!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrspi&label=Profile%20views&color=0e75b6&style=flat" alt="vrspi" /> </p>
 
